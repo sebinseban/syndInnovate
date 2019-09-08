@@ -1,9 +1,4 @@
-/* 	Arduino IOT - Temperature (oC) and Humidity (%) on the web
-	*Use the DHT-22 sensor to read temperature and humidity values
-	*Send these values to www.thingSpeak.com with the ESP8266 serial Wifi module
-	Dev: Michalis Vasilakis // Date:23/2/2016 // Update: 25/2/2015 // Ver. 1.3
-	More info: http://www.ardumotive.com/iot-wifi-temp-and-humidity.html
-	Tip: open the serial monitor for debugging 										*/
+										*/
 
 //Libraires
 #include <stdlib.h>
